@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="apple.css">
+</head>
+<body>
+<ul class="topnav">
+  <li><a class="active" href="Inicio.html">INICIO</a></li>
+  <li><a href="Novedades.html">NOVEDADES</a></li>
+  <li><a href="Recomen.html">RECOMENDACIONES</a></li>
+</ul>
+   
+<div class="header">
+    <h1>------</h1>
+    <p></p>
+  </div>
+
+  <div class="row">
+    <div class="leftcolumn">
+      <div class="card">
+        <h2>------</h2>
+        <h5>Title description, Dec 7, 2017</h5>
+        <div class="fakeimg">
+          <img src="img/imgapple/" alt="Cinque Terre" width="100%" height="auto"></div>
+        <p>
+        </p>
+      </div>
+      <div class="card">
+        <h2>------</h2>
+        <h5>Title description, Dec 7, 2017</h5>
+        <div class="fakeimg" justify-content-center>
+          <img src="img/imgapple/" alt="Cinque Terre" width="100%" height="auto"></div>
+        <p></p>
+      </div>
+      <div class="card">
+        <h2>-----</h2>
+        <h5>Title description, Dec 7, 2017</h5>
+        <div class="fakeimg" justify-content-center> <img src="img/imgapple/" alt="Cinque Terre" width="100%" height="auto"></div>
+        
+      </div>
+    </div>
+
+    <div class="rightcolumn">
+      <div class="card">
+        <h2>-----</h2>
+        <div class="fakeimg" justify-content-center><img src="img/imgapple/" alt="Cinque Terre" width="270px" height="170px"></div>
+        <p>
+        </p>
+      </div>
+
+      <div class="card">
+        <h3>Echales un vistazo!</h3>
+        <div class="fakeimg">
+          <a href="">
+            <img src="img/imgapple/" alt="Cinque Terre" width="170px" height="150px"></a></div>
+
+        <div class="fakeimg">
+            <a href="">
+              <img src="img/imgapple/" alt="Cinque Terre" width="170px" height="150px"></a></div>
+            
+        <div class="fakeimg">
+            <a href="">
+              <img src="img/imgapple/" alt="Cinque Terre" width="170px" height="150px"></a></div>
+          
+      </div>
+
+      <div class="video" justify-content-center>
+        <iframe width="100%" height="300" src="https://www.youtube.com/embed/gi_UlYaAmio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+
+    </div>
+  </div>
+
+</body>
+</html>
